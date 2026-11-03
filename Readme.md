@@ -1,3 +1,3 @@
 ```
-irm https://raw.githubusercontent.com/phonphukdy/Program_check_list/main/hello.ps1 | iex
+irm https://raw.githubusercontent.com/phonphukdy/Program_check_list/main/check.ps1 | iex
 ```
